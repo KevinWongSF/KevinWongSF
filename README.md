@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Screenshot 2023-08-05 220659](https://github.com/KevinWongSF/KevinWongSF/assets/136656858/4ed13ff3-16b4-4206-a430-4eb56aff1018)
 
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
