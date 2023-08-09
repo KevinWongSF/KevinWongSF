@@ -22,6 +22,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/KevKe
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin]([https://www.linkedin.com/in/katiehuangx/](https://www.linkedin.com/in/kevin-wong-139a7b13a/)
+- [Linkedin]([https://www.linkedin.com/in/katiehuangx/](https://www.linkedin.com/in/kevin-wong-139a7b13a/)]
 - Email: Keivn.Wong0415@gmail.com
 - Phone: 415-518-9236
