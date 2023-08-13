@@ -2,7 +2,7 @@
 
 
 
-<img width="1000" alt="image" src="https://github.com/KevinWongSF/KevinWongSF/assets/136656858/bcee380f-b105-4b6f-b209-47a222ec4847">
+<img width="700" alt="image" src="https://github.com/KevinWongSF/KevinWongSF/assets/136656858/bcee380f-b105-4b6f-b209-47a222ec4847">
 
 Hello, I'm Kevin. An Inspiring Data analyst learning new skills in advanced SQL, Tableau, and Excel. Take a look at my Journey!
 
